@@ -1,15 +1,24 @@
 const quoteArr = [
   {
-    "line": "Im takin the dog dammit",
-    "movie": "Legally Blonde"
+    "line": "Nobody puts Baby in a corner",
+    "movie": "Dirty Dancing"
   },{
-    "line": "May the froce be with you",
-    "movie": "Star Wars"
+    "line": "My precious",
+    "movie": "The Lord of the Rings: Two Towers"
   },{
-    "line": "Let it go",
-    "movie": "Frozen"
+    "line": "I'm the king of the world!",
+    "movie": "Titanic"
   },{
-    "line": "Auntie Em Auntie Em!",
-    "movie": "The Wizard of Oz"
+    "line": "Frankly, my dear, I dont give a damn",
+    "movie": "Gone With the Wind"
+  },{
+    "line": "Life is like a box of chocolates, you never know what you're gonna get",
+    "movie": "Forrest Gump"
+  },{
+    "line": "You're gonna need a bigger boat",
+    "movie": "Jaws"
+  },{
+    "line": "Here's Johnny!",
+    "movie": "The Shining"
   }
 ]
