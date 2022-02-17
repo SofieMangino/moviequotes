@@ -4,5 +4,6 @@ function generate() {
   let movieVar = document.querySelector("cite");
   lineVar.innerText = quoteArr[ranNum].line;
   movieVar.innerText = quoteArr[ranNum].movie;
+  console.log(ranNum);
 };
 generate()
